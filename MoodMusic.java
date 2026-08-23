@@ -51,6 +51,11 @@ public class MoodMusic {
     System.out.println("1. Sipho Fana - Nasty C");
     System.out.println("2. Khaya - Amapiano");
     System.out.println("3. Mzansi - Amapiano");
+}else if (mood == 2 && genre == 1) {
+    // Sad + Afrobeats
+    System.out.println("1.Heaven - DJ Spinall ft. Tiwa Savage");
+    System.out.println("2.body abd soul - Burna Boy");
+    System.out.println("3.low - Rema");
 }
 
         scanner.close();
