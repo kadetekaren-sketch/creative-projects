@@ -4,6 +4,7 @@ public class MoodMusic {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // Choose music based on how you're feeling and your preferred genre
+        // still working on it, will add more moods and genres later
         System.out.println("🎵 Mood Music Recommender 🎵");
         System.out.println("How are you feeling today?");
         System.out.println("1. Happy");
