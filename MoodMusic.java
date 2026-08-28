@@ -106,7 +106,7 @@ public class MoodMusic {
     // Relaxed + Afrobeats
     System.out.println("1. Peru - Fireboy DML");
     System.out.println("2. Trouble maker - Rema");
-    System.out.println("3. Sere - Adekunle Gold");
+    System.out.println("3. Remember - Asake");
 }else if (mood == 4 && genre == 2) {
     // Relaxed + RnB
     System.out.println("1. Adore - Prince");
