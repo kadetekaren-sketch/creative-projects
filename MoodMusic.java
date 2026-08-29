@@ -131,7 +131,7 @@ public class MoodMusic {
     // Angry + Afrobeats
     System.out.println("1. Last Last - Burna Boy");
     System.out.println("2. Dami Duro - Davido");
-    System.out.println("3. Fela Kuti - Water No Get Enemy");
+    System.out.println("3. Alcohol - Fireboy DML");
 }else if (mood == 5 && genre == 2) {
     // Angry + RnB
     System.out.println("1. Bils, Bills, Bills - Destiny's Child");
